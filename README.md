@@ -1,11 +1,16 @@
 # datastore
-DatStore project for Fworks
+DataStore project for Fworks
 
 Working example : http://navira.xyz:2202/datastore/
 (repo for above implementation project : https://github.com/vimal-raj/datastoreweb)
 
+
+
+
 Object Creation
 ===============
+
+xyz.navira.fworks.DataStore
 
 // default name and path(system temp) will be created if not provided
 
